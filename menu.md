@@ -7,3 +7,4 @@ Panino Vegetariano: ./panini/vegetariano.md
 Paninoteca Padovana
 
 Fritti
+Olive Ascolane: ./fritti/olive_ascolane.md
