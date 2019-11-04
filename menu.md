@@ -8,3 +8,4 @@ Paninoteca Padovana
 
 Fritti
 Olive Ascolane: ./fritti/olive_ascolane.md
+Arancini: ./fritti/arancini.md
