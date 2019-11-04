@@ -1,6 +1,7 @@
 Matricola 1143705
 
-Panino Primavera: ./primavera.md
-Panino Vegetariano: ./vegetariano.md
+Panini
+Panino Primavera: ./panini/primavera.md
+Panino Vegetariano: ./panini/vegetariano.md
 
 Paninoteca Padovana
